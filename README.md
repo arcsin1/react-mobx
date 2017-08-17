@@ -1,3 +1,10 @@
+# React-Mobx（V1.0.0）
+  - webpack
+  - react-router
+  - mobx-react
+  - mobx
+  - ES6
+
 # Installation
 ```
 npm install
@@ -11,9 +18,4 @@ npm run dev
 - 生产环境
 ```
 npm run build
-```
-#接口配置
-
-```
-主要在config.js里面配置前缀
 ```
